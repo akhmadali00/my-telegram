@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-telegram/static/css/main.42f174dc.css",
+    "main.js": "/my-telegram/static/js/main.456ee9e3.js",
+    "index.html": "/my-telegram/index.html",
+    "main.42f174dc.css.map": "/my-telegram/static/css/main.42f174dc.css.map",
+    "main.456ee9e3.js.map": "/my-telegram/static/js/main.456ee9e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42f174dc.css",
+    "static/js/main.456ee9e3.js"
+  ]
+}
